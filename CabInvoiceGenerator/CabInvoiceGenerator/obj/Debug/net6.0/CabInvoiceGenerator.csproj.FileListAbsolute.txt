@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.exe
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.deps.json
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.dll
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\ref\CabInvoiceGenerator.dll
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.dll
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\ref\CabInvoiceGenerator.dll
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\Users\prati\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "371765b7-5a5e-4d80-9e3b-7206c8bfd2c1": {
+      "ProjectGuid": "371765b7-5a5e-4d80-9e3b-7206c8bfd2c1",
+      "DisplayName": "CabInvoiceGenerator",
+      "ColorIndex": 0
+    },
+    "5c28056f-1bbd-4012-aaf7-f6016cbf5085": {
+      "ProjectGuid": "5c28056f-1bbd-4012-aaf7-f6016cbf5085",
+      "DisplayName": "CabInvoiceTestProject1",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
